@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="let_me_know_your_gender_please">Let me Know Your Gender please?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="you_are">You are</string>
+</resources>
